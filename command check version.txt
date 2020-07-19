@@ -1,0 +1,37 @@
+
+Kiểm tra version brew:
+brew -v => Enter
+
+Kiểm tra version CocoaPod:
+pod --version => Enter
+
+Kiểm tra version expo:
+expo -V => Enter
+
+Kiểm tra Expo SDK:
+c1: xem trong file package.json
+mục: “expo” trong edpendencies
+c2: npm show expo version => Enter
+*** xem tất cả các version Expo SDK ***
+npm show expo versions => Enter (chữ versions có s)
+*** xem thông tin toàn bộ current version Expo SDK ***
+npm show expo => Enter
+
+Kiểm tra version npm:
+npm --version => Enter
+
+Kiểm tra version nodejs:
+node -v => Enter
+
+Kiểm tra version Watchman:
+watchman -v => Enter
+
+Kiểm tra version git:
+install:
+brew install git => Enter
+version:
+git --version => Enter
+
+
+
+
