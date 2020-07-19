@@ -5,6 +5,9 @@ brew -v => Enter
 Kiểm tra version CocoaPod:
 pod --version => Enter
 
+Kiểm tra version React Native & React Native CLI:
+react-native -v => Enter
+
 Kiểm tra version expo:
 expo -V => Enter
 
