@@ -43,3 +43,8 @@
 
 - version:
 `git --version` => Enter
+
+## Gradle
+- install: https://gradle.org/install/
+- version:
+`gradle -v` => Enter
