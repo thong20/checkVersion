@@ -1,6 +1,7 @@
 ## Kiểm tra version adb:
-`adb version` => Enter
- 
+- version: `adb version` => Enter
+- help: `adb help` => Enter
+
  ## Kiểm tra version brew:
 `brew -v` => Enter
 
