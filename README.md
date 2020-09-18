@@ -12,7 +12,7 @@
 ## Kiểm tra version React Native & React Native CLI:
 `react-native -v` => Enter
 
-## Kiểm tra version expo:
+## Kiểm tra version expo-cli:
 `expo -V` => Enter
 
 ## Kiểm tra Expo SDK:
