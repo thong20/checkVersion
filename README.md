@@ -15,7 +15,7 @@
 ## Kiểm tra version expo-cli:
 `expo -V` => Enter
 
-## Kiểm tra Expo SDK:
+## Kiểm tra version Expo SDK:
 - Cách 1: Xem trong file package.json ở mục: “expo” trong edpendencies
 
 - Cách 2: `npm show expo version` => Enter
