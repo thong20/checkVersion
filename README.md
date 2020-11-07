@@ -52,3 +52,13 @@
 - install: https://gradle.org/install/
 - version:
 `gradle -v` => Enter
+
+## Firebase
+- install:
+`npm install -g firebase-tools` => Enter
+hoặc: https://firebase.google.com/docs/cli?authuser=0#install_the_firebase_cli
+- version:
+`firebase -V` => Enter
+- help:
+`firebase help` => Enter
+
