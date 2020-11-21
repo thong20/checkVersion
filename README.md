@@ -5,6 +5,8 @@
  ## Kiểm tra version brew:
 `brew -v` => Enter
 
+## Kiểm tra version watchman:
+`watchman -v` => Enter
   
 ## Kiểm tra version CocoaPod:
 `pod --version` => Enter
