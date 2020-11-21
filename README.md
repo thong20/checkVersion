@@ -5,7 +5,10 @@
  ## Kiểm tra version brew:
 `brew -v` => Enter
 
-## Kiểm tra version watchman:
+## Kiểm tra version nodejs:
+`node -v` => Enter
+
+## Kiểm tra version Watchman:
 `watchman -v` => Enter
   
 ## Kiểm tra version CocoaPod:
@@ -34,13 +37,6 @@
 
 `npm --version` => Enter
 
-## Kiểm tra version nodejs:
-
-`node -v` => Enter
-
-## Kiểm tra version Watchman:
-
-`watchman -v` => Enter
 
 ## Kiểm tra version git:
 
