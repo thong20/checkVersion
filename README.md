@@ -67,7 +67,7 @@ hoặc: https://firebase.google.com/docs/cli?authuser=0#install_the_firebase_cli
 
 ## Kiểm tra Enviroment Variable
 - Kiểm tra biến môi trường Enviroment Variable:
-Mở Terminal, gõ lệnh:
+ Mở Terminal, gõ lệnh:
 `echo $PATH` => Enter
 
 
