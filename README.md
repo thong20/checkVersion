@@ -12,7 +12,12 @@
 `watchman -v` => Enter
   
 ## Kiểm tra version CocoaPod:
+- check Version:
 `pod --version` => Enter
+- install:
+`sudo gem install cocoapods` => Enter
+- uninstall:
+`sudo gem uninstall cocoapods` => Enter
 
 ## Kiểm tra version React Native & React Native CLI:
 `react-native -v` => Enter
