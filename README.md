@@ -36,12 +36,14 @@
 *** xem thông tin toàn bộ current version Expo SDK ***
 `npm show expo` => Enter
 
-  
-
 ## Kiểm tra version npm:
 
 `npm --version` => Enter
 
+## Kiểm tra version yarn:
+`yarn --version` => Enter
+- instrall global:
+`npm install -g yarn` => Enter
 
 ## Kiểm tra version git:
 
