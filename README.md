@@ -2,6 +2,9 @@
 - version: `adb version` => Enter
 - help: `adb help` => Enter
 
+## Kiểm tra version java, JDK, JRE:
+`java -version` => Enter
+
  ## Kiểm tra version brew:
 `brew -v` => Enter
 
